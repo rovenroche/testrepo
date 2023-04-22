@@ -1,24 +1,3 @@
-<!--
- // WEBSITE: https://themefisher.com
- // TWITTER: https://twitter.com/themefisher
- // FACEBOOK: https://www.facebook.com/themefisher
- // GITHUB: https://github.com/themefisher/
--->
-
-<!-- 
-THEME: Megakit | HTML5 Agency Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
-
-HOMEPAGE: https://themefisher.com/products/megakit-multipurpose-bootstrap-template/
-DEMO: https://demo.themefisher.com/megakit/
-GITHUB: https://github.com/themefisher/Megakit-Bootstrap-Agency-Template
-
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
--->
-
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -174,10 +153,6 @@ Essential Scripts
 <!-- Counterup -->
 <script src="/plugins/counterup/jquery.waypoints.min.js"></script>
 <script src="/plugins/counterup/jquery.counterup.min.js"></script>
-
-<!-- Google Map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
-<script src="/plugins/google-map/map.js" defer></script>
 
 <script src="/js/script.js"></script>
 
